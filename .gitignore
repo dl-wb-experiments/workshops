@@ -19,3 +19,6 @@ venv
 notebook/data/*
 !notebook/data/input.mp4
 !notebook/data/input_image.jpg
+
+# Mac
+*.DS_Store
