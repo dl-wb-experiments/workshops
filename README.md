@@ -1,5 +1,9 @@
 # OpenVINO™ Deep Learning Workbench workshops
 
+## Workshops:
+
+1. [CV] OpenVINO™ Deep Learning Workbench: Optimizing and Analysing Pre-Trained Neural Networks
+
 ## How to run the notebook
 
 1. Clone the repository:
