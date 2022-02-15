@@ -6,7 +6,7 @@
 
 1. Go to the workshop directory:
 ```shell
-cd workshops/2022_opentalksai_cv
+cd workshops/2022_opentalksai_nlp
 ```
 
 2. Run Jupyter Lab:
